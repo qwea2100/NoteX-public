@@ -1,7 +1,7 @@
 # 活動 QR 兌換與 LINE 綁定流程 LINE Claim Flow
 
 > 1. 本文件為產品規劃期間的規格文件之一，完整專案背景請見[根目錄 README](../README.md)
-2. 相關文件：[點數購物車](points-cart.md)、[雙軌購物車設計](dual-track-cart.md)、[問題與使用者](../overview/problem-and-users.md)
+> 2. 相關文件：[點數購物車](points-cart.md)、[雙軌購物車設計](dual-track-cart.md)、[問題與使用者](../overview/problem-and-users.md)
 
 
 ## 一句話說明
